@@ -1,3 +1,6 @@
 [submodule "jenkins-themes/jenkins-clean-theme"]
 	path = jenkins-themes/jenkins-clean-theme
 	url = https://github.com/felx/jenkins-clean-theme
+[submodule "jenkins-themes/canon-jenkins"]
+	path = jenkins-themes/canon-jenkins
+	url = https://github.com/felx/canon-jenkins.git
